@@ -4,7 +4,7 @@ This repo contain a simple skeleton to create a quick project with tailwindcss a
 
 ## Usage
 ```bash
-git clone https://github.com/vincentkosciuszko/skeleton-tailwindcss
+git clone https://github.com/einsteinpp/skeleton-tailwindcss
 cd skeleton-tailwindcss
 pnpm install # or npm install
 pnpm run build # or npm run build
